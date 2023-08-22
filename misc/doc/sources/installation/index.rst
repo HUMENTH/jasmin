@@ -21,10 +21,10 @@ Depending on the Linux distribution you are using, you may need to install the f
 
 * `RabbitMQ Server <https://www.rabbitmq.com>`_, Ubuntu package name: **rabbitmq-server**. RabbitMQ is used heavily by Jasmin as its core AMQP.
 * `Redis Server <http://redis.io/>`_, Ubuntu package name: **redis-server**. Redis is used mainly for mapping message ID's when receiving delivery receipts.
-* header files and a static library for Python, Ubuntu package name: **python-dev**
+* header files and a static library for Python, Ubuntu package name: **python3-dev**
 * Foreign Function Interface library (development files), Ubuntu package name: **libffi-dev**
 * Secure Sockets Layer toolkit - development files, Ubuntu package name: **libssl-dev**
-* `Twisted Matrix <https://twistedmatrix.com>`_, Python Event-driven networking engine, Ubuntu package name: **python-twisted**
+* `Twisted Matrix <https://twistedmatrix.com>`_, Python Event-driven networking engine, Ubuntu package name: **python3-twisted**
 
 Ubuntu
 ******
